@@ -1,0 +1,13 @@
+.bodyBackground {
+    background-image: url(fundo.gif);
+    background-size: cover;
+    color: darkslateblue;
+}
+
+
+#myCanvas {
+border-width: 10px;
+background-color: bisque;
+border-style: ridge;
+border-color: blueviolet;
+}
